@@ -1,2 +1,2 @@
-# ciclo-de-vida---React
+# ciclo-de-vida-React
 Exemplo prático de como funciona o ciclo de vida de um componente em React
